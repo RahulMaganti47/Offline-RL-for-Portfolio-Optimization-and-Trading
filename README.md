@@ -1,3 +1,3 @@
 # Offline-RL-for-Portfolio-Optimization-and-Trading
 
-Independent Study Report is under name: Rahul_Ind_Study (1).pdf
+Full report: https://github.com/RahulMaganti47/Offline-RL-for-Portfolio-Optimization-and-Trading/blob/master/Rahul_Ind_Study%20(1).pdf
